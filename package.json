@@ -1,6 +1,6 @@
 {
   "name": "to-fin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "convert to financal decimal number and fix JS accuracy problems",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,5 +10,9 @@
     "accuracy"
   ],
   "author": "mm996",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LogiCadi/to-fin"
+  }
 }
