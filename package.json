@@ -1,0 +1,14 @@
+{
+  "name": "to-fin",
+  "version": "1.0.2",
+  "description": "convert to financal decimal number and fix JS accuracy problems",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "decimal",
+    "float",
+    "accuracy"
+  ],
+  "author": "mm996",
+  "license": "MIT"
+}
